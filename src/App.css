@@ -56,23 +56,24 @@ body{
 }
 
 .modal{
-    background-color: blueviolet;
+    background-color: #05ACD7;
     display: flex;
     align-self: center;
     flex: 1;
-    margin-top: 10vh;
     justify-content: space-between;
     flex-direction: column;
     align-items: center;
     height: 500px;
     width: 500px;
     position: relative;
-    left: 50%;
-    right: 50%;
-}
+    margin: auto;
+    margin-top: 10vh;
+    border-radius: 25px 25px 25px;
+    outline: none;
+  }
 
 .next{
-  background-color: #FF212F;
+  background-color: #8600CB;
   display: flex;
   width: 100px;
   align-self: center;
@@ -80,4 +81,11 @@ body{
   justify-content: center;
   padding: 10px;
   margin-bottom: 15px;
+  color: white;
+}
+
+.modal-text{
+  font-size: 35px;
+  text-align: center;
+  padding: 10px;
 }
