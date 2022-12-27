@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Never-Have-I-Ever/static/css/main.4856c484.css",
+    "main.js": "/Never-Have-I-Ever/static/js/main.19daf69c.js",
+    "static/js/787.3eff7ed4.chunk.js": "/Never-Have-I-Ever/static/js/787.3eff7ed4.chunk.js",
+    "static/media/background_image.jpg": "/Never-Have-I-Ever/static/media/background_image.abdb960c20a5a8d95db3.jpg",
+    "static/media/logo.png": "/Never-Have-I-Ever/static/media/logo.c0213ccc9a38a31f41c8.png",
+    "static/media/bpg_extrasquare_mtavruli_2009.ttf": "/Never-Have-I-Ever/static/media/bpg_extrasquare_mtavruli_2009.e30b36e07745bf1d0bfa.ttf",
+    "static/media/adult.svg": "/Never-Have-I-Ever/static/media/adult.cb48dec74fb530406a561958a21e1954.svg",
+    "static/media/friend.svg": "/Never-Have-I-Ever/static/media/friend.566dd71845567cf5b8dbe976952da67b.svg",
+    "static/media/couples.svg": "/Never-Have-I-Ever/static/media/couples.6d91afa00eebab5eeeb0aa3a9fae4ce0.svg",
+    "static/media/close.svg": "/Never-Have-I-Ever/static/media/close.c6da28b1ece7cc00156469ba8d8d4c67.svg",
+    "index.html": "/Never-Have-I-Ever/index.html",
+    "main.4856c484.css.map": "/Never-Have-I-Ever/static/css/main.4856c484.css.map",
+    "main.19daf69c.js.map": "/Never-Have-I-Ever/static/js/main.19daf69c.js.map",
+    "787.3eff7ed4.chunk.js.map": "/Never-Have-I-Ever/static/js/787.3eff7ed4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4856c484.css",
+    "static/js/main.19daf69c.js"
+  ]
+}
