@@ -1,8 +1,8 @@
-body{
+body {
   overflow: hidden;
 }
 
-.wrapper{
+.wrapper {
   display: flex;
   flex-direction: column;
   justify-content: center;
@@ -24,18 +24,18 @@ body{
 }
 
 .purple {
-  background-color: #8400FF;
+  background-color: #8400ff;
 }
 
 .orange {
-  background-color: #FF5B00;
+  background-color: #ff5b00;
 }
 
 .red {
-  background-color: #FF0066;
+  background-color: #ff0066;
 }
 
-.btn{
+.btn {
   height: 100px;
   width: 400px;
   border-radius: 20px;
@@ -45,9 +45,9 @@ body{
   margin: 15px;
 }
 
-.title{
- font-size: 25px;
- font-family: "Asomtavruli";
+.title {
+  font-size: 25px;
+  font-family: "Asomtavruli";
 }
 
 @font-face {
@@ -55,25 +55,25 @@ body{
   src: url(./fonts/bpg_extrasquare_mtavruli_2009.ttf) format("ttf");
 }
 
-.modal{
-    background-color: #05ACD7;
-    display: flex;
-    align-self: center;
-    flex: 1;
-    justify-content: space-between;
-    flex-direction: column;
-    align-items: center;
-    height: 70vh;
-    width: 50vh;
-    position: relative;
-    margin: auto;
-    margin-top: 10vh;
-    border-radius: 25px 25px 25px;
-    outline: none;
-  }
+.modal {
+  background-color: #05acd7;
+  display: flex;
+  align-self: center;
+  flex: 1;
+  justify-content: space-between;
+  flex-direction: column;
+  align-items: center;
+  height: 70vh;
+  width: 50vh;
+  position: relative;
+  margin: auto;
+  margin-top: 10vh;
+  border-radius: 25px 25px 25px;
+  outline: none;
+}
 
-.next{
-  background-color: #8600CB;
+.next {
+  background-color: #8600cb;
   display: flex;
   width: 100px;
   align-self: center;
@@ -84,7 +84,7 @@ body{
   color: white;
 }
 
-.modal-text{
+.modal-text {
   font-size: 2em;
   text-align: center;
   padding: 10px;
