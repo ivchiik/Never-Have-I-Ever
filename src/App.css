@@ -63,8 +63,8 @@ body{
     justify-content: space-between;
     flex-direction: column;
     align-items: center;
-    height: 500px;
-    width: 500px;
+    height: 70vh;
+    width: 50vh;
     position: relative;
     margin: auto;
     margin-top: 10vh;
@@ -85,7 +85,7 @@ body{
 }
 
 .modal-text{
-  font-size: 35px;
+  font-size: 2em;
   text-align: center;
   padding: 10px;
 }
